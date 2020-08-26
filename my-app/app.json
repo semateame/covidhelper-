@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "my-app",
+    "slug": "my-app",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "sdkVersion": "37.0.0",
+    "orientation": "portrait",
+    "icon": "./logo.png",
+    "description":"Iwoa volunteers",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

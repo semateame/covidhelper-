@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sema:task@cluster-moneytransfer-s2ktz.mongodb.net/MobileApp?retryWrites=true&w=majority",
+    "jwtSecret": "task"
+}
